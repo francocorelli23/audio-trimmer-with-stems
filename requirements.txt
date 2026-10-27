@@ -1,0 +1,6 @@
+# Core app. Stem separation is optional: see requirements-stems.txt
+PySide6
+pyqtgraph
+numpy
+soundfile
+sounddevice

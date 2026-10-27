@@ -1,0 +1,20 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# Build output (e.g. PyInstaller)
+build/
+dist/
+*.spec
+
+# Local tool settings
+.claude/
+.vscode/
+.idea/
+
+# Audio files you may drop in while testing
+*.mp3
+*.m4a
+*.wav
+*.flac

@@ -1,0 +1,7 @@
+# Optional: stem separation. Install with install_stems.bat (it picks the
+# CUDA 12.6 build of PyTorch, which still supports older NVIDIA cards like the GTX 10xx).
+--index-url https://download.pytorch.org/whl/cu126
+--extra-index-url https://pypi.org/simple
+torch
+torchaudio
+demucs
