@@ -60,3 +60,7 @@ app/main_window.py   window, toolbar, stem lanes, trim bar
 ```
 
 For debugging, run `.venv\Scripts\python.exe main.py` in a terminal to see error output.
+
+## License
+
+MIT, see [LICENSE](LICENSE). Stem separation uses [Demucs](https://github.com/facebookresearch/demucs) (MIT).
